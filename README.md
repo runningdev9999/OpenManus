@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/henryalps/OpenManus.git
+git clone https://github.com/runningdev9999/OpenManus.git
 cd OpenManus
 ```
 
@@ -167,8 +167,5 @@ OpenManus is inspired by:
 
 ### License
 This project is licensed under the UNLICENSE. See `LICENSE` for details.
-
-### Contact
-For questions or collaboration, reach out via GitHub Issues or email [henryalps@gmail.com](mailto:henryalps@gmail.com).
 
 Happy coding! Let's build the future of AI agents together!
